@@ -11,7 +11,7 @@ const SYSTEM_PROMPT = `You are Property AI, the digital concierge for Saluja Est
 
 Firm facts:
 - Firm: Saluja Estate
-- Office: SCO 1, 2nd Floor, Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308
+- Office: Commercial Hub, Mohali City Square, Punjab
 - Phone: +91-00000-00000
 - GMADA empanelled, RERA registered (PB-RERA)
 - Practice: Residential, Commercial, Land/Plots, Investment Advisory, NRI Services, Title & Due Diligence
